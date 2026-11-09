@@ -1,2 +1,2 @@
 # delta-demo
-demo of git use
+demo of git use.
